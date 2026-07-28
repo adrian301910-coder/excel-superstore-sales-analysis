@@ -1,19 +1,19 @@
 Análisis de Ventas - Superstore (Excel)
-📌 Descripción del proyecto
+Descripción del proyecto:
 
 Análisis de datos de ventas de una tienda "Superstore" utilizando Excel (Excel Online), combinando tablas dinámicas y fórmulas para responder 8 preguntas de negocio sobre ventas, ganancias, clientes y productos.
 
 Este es mi segundo proyecto de portafolio como parte de mi transición hacia Data Analytics — el mismo dataset y las mismas preguntas que en mi proyecto de SQL, resueltas ahora con Excel para comparar resultados entre herramientas.
 
-🛠 Herramientas utilizadas
+🛠 Herramientas utilizadas:
 Excel (Excel Online)
 Tablas dinámicas
 Fórmulas: PROMEDIO.SI.CONJUNTO, CONTAR.SI, SUMAR.SI, SI, ESNUMERO, DERECHA
-📊 Dataset
+Dataset:
 
 Superstore Sales Dataset (Kaggle) — contiene información de órdenes, productos, clientes, ventas y ganancias de una tienda minorista entre 2014 y 2017.
 
-❓ Preguntas de negocio respondidas
+❓ Preguntas de negocio respondidas:
 ¿Qué categoría vende más? (tabla dinámica)
 ¿Qué región genera más ganancia? (tabla dinámica)
 ¿Cuáles son los 10 clientes que más gastan? (tabla dinámica)
@@ -22,7 +22,7 @@ Superstore Sales Dataset (Kaggle) — contiene información de órdenes, product
 ¿Cuál es la ganancia total por año? (fórmulas)
 ¿Cuántas órdenes únicas hay por estado? (tabla dinámica)
 ¿Qué mes del año tiene más órdenes? (tabla dinámica)
-💡 Hallazgos principales
+💡 Hallazgos principales:
 Technology es la categoría con más ventas ($836,154), seguida de Furniture ($741,999) y Office Supplies ($719,047).
 La región West genera la mayor ganancia ($108,418), casi el triple que Central ($39,706).
 Sean Miller es el cliente que más ha gastado ($25,043), seguido de Tamara Chand y Raymond Buch.
